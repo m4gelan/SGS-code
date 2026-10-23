@@ -24,5 +24,9 @@ python amoc_google_trends.py
 
 ## Articles marked on the Google Trends figure
 
-- Yale Environment 360: https://e360.yale.edu/digest/amoc-collapse-10-percent
-- The Guardian: https://www.theguardian.com/environment/2026/apr/15/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought
+- The Guardian (April line): https://www.theguardian.com/environment/2026/apr/15/critical-atlantic-current-significantly-more-likely-to-collapse-than-thought
+
+- The Guardian (June line): https://www.theguardian.com/commentisfree/2026/jun/14/amoc-collapse-europe-climate
+
+
+- BBC : https://www.bbc.co.uk/news/articles/c992e8g10nmo
